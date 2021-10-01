@@ -71,7 +71,6 @@ if(pets > allowedPets){
 }
 
 
-
 // STRETCH GOALS:
 
 // 16 - Make a variable called `mostPets` and a conditional that
